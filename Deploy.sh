@@ -1,1 +1,3 @@
-Hello  Thi file contains deploymwnt script
+I am in master branch
+Updated now...
+Hello  This file contains deploymwnt script
